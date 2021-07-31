@@ -7,6 +7,12 @@
 
 ## Documentation
 
+First close this repo using:
+````
+git clone git@github.com:Papipomme/PHP-BlackListMCAPI.git
+````
+OR download the `blmcapi.php` file.
+
 The file blmcapi.php need to be required !
 So put :
 ````php
