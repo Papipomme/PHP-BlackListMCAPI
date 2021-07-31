@@ -3,7 +3,6 @@
 #### Implementing the blacklistmc API in PHP.
 
 > BlackListMC: https://www.blacklistmc.net/
-> BlackListMC API: https://api.blacklistmc.net/
 
 ## Documentation
 
